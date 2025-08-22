@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: WIN_20250811_15_52_09_Pro.jpg
+  image: WIN_20250811_15_52_06_Pro.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>00100, Nairobi</p>
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a dedicated and results-driven professional with a Bachelor’s degree in Business Information Technology (BBIT) and a specialization in cybersecurity. My educational journey has provided me with a robust foundation in both technical and business principles, enabling me to navigate the complexities of the IT landscape effectively. Throughout my studies, I developed expertise in ethical hacking, networking, and AI engineering, and I became proficient in programming languages such as JavaScript, HTML, Java, and Python. This diverse skill set positions me uniquely to tackle contemporary challenges in the tech industry.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
